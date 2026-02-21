@@ -39,7 +39,7 @@ type ConceptStore struct {
 	ByDimension map[string]*DimensionIndex
 }
 
-var dimensions = []string{"length", "height", "width", "weight", "volume", "area", "duration"}
+var dimensions = []string{"length", "height", "width", "weight", "volume", "area", "distance", "duration"}
 
 func NewConceptStore() (*ConceptStore, error) {
 	measurements, err := loadMeasurements()

@@ -31,38 +31,54 @@ type UnitResult struct {
 	Dimension string
 }
 
+// compatibleDimensions returns the set of dimensions to search.
+// Length and distance share the same base unit (meters), so a length query
+// also searches distance concepts and vice versa.
+func compatibleDimensions(dimension string) []string {
+	switch dimension {
+	case "length":
+		return []string{"length", "distance"}
+	case "distance":
+		return []string{"distance", "length"}
+	default:
+		return []string{dimension}
+	}
+}
+
 // FindUnitMatch finds the concept whose measurement in the given dimension
 // produces the nicest ratio with the input value.
 func FindUnitMatch(value float64, dimension string, store *data.ConceptStore) (UnitResult, error) {
-	idx, ok := store.ByDimension[dimension]
-	if !ok || len(idx.Entries) == 0 {
-		return UnitResult{}, fmt.Errorf("no valid comparison found for %s", dimension)
-	}
-
 	type candidate struct {
 		result UnitResult
 		score  float64
 	}
 	var candidates []candidate
 
-	for _, e := range idx.Entries {
-		ratio := value / e.Value
-		if ratio < 0.01 || ratio > 100000 {
+	for _, dim := range compatibleDimensions(dimension) {
+		idx, ok := store.ByDimension[dim]
+		if !ok || len(idx.Entries) == 0 {
 			continue
 		}
-		score := ScoreRatio(ratio)
-		candidates = append(candidates, candidate{
-			result: UnitResult{
-				Concept:   *e.Concept,
-				Ratio:     ratio,
-				Dimension: dimension,
-			},
-			score: score,
-		})
+		for _, e := range idx.Entries {
+			ratio := value / e.Value
+			if ratio < 0.01 || ratio > 100000 {
+				continue
+			}
+			score := ScoreRatio(ratio)
+			candidates = append(candidates, candidate{
+				result: UnitResult{
+					Concept:   *e.Concept,
+					Ratio:     ratio,
+					Dimension: dim,
+				},
+				score: score,
+			})
+		}
 	}
 
 	if len(candidates) == 0 {
-		return UnitResult{}, fmt.Errorf("no valid comparison found for %s", dimension)
+		dims := compatibleDimensions(dimension)
+		return UnitResult{}, fmt.Errorf("no valid comparison found for %v", dims)
 	}
 
 	bestScore := math.MaxFloat64

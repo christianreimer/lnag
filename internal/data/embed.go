@@ -21,6 +21,7 @@ type Concept struct {
 	WeightKg   *float64 `json:"weight_kg,omitempty"`
 	VolumeM3   *float64 `json:"volume_m3,omitempty"`
 	AreaM2     *float64 `json:"area_m2,omitempty"`
+	DistanceM  *float64 `json:"distance_m,omitempty"`
 	DurationS  *float64 `json:"duration_s,omitempty"`
 }
 
@@ -39,6 +40,8 @@ func (c Concept) ValueFor(dimension string) (float64, bool) {
 		p = c.VolumeM3
 	case "area":
 		p = c.AreaM2
+	case "distance":
+		p = c.DistanceM
 	case "duration":
 		p = c.DurationS
 	default:

@@ -125,7 +125,7 @@ func TestConceptStoreDurationIndex(t *testing.T) {
 	// Check that marathon is in the duration index
 	found := false
 	for _, e := range idx.Entries {
-		if e.Concept.Name == "Marathon world record (men)" {
+		if e.Concept.Name == "men's Marathon world record" {
 			found = true
 			if math.Abs(e.Value-7084) > 0.01 {
 				t.Errorf("Marathon value = %f, want 7084", e.Value)

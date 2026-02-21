@@ -363,7 +363,7 @@
     "proper_noun": true
   },
   {
-    "name": "Roman Empire duration (Western)",
+    "name": "Western Roman Empire duration",
     "category": "Historical",
     "duration_s": 14073868800,
     "notes": "~446 years (27 BC – 476 AD)",
@@ -578,7 +578,7 @@
     "notes": "~30 minutes"
   },
   {
-    "name": "Tornado (average)",
+    "name": "average Tornado",
     "category": "Weather",
     "duration_s": 600,
     "notes": "~10 minutes on ground"
@@ -852,7 +852,7 @@
     "notes": "~60 days upriver"
   },
   {
-    "name": "Cicada lifecycle (17-year)",
+    "name": "17-year Cicada lifecycle",
     "category": "Biology",
     "duration_s": 536112000,
     "notes": "17 years underground"
@@ -909,19 +909,19 @@
     "notes": "At ~112 km/h"
   },
   {
-    "name": "100m world record (men)",
+    "name": "men's 100m world record",
     "category": "Sports",
     "duration_s": 9.58,
     "notes": "Usain Bolt, 2009"
   },
   {
-    "name": "Mile world record (men)",
+    "name": "men's Mile world record",
     "category": "Sports",
     "duration_s": 223.13,
     "notes": "Hicham El Guerrouj, 3:43.13"
   },
   {
-    "name": "Marathon world record (men)",
+    "name": "men's Marathon world record",
     "category": "Sports",
     "duration_s": 7084,
     "notes": "Kelvin Kiptum, 1:57:58 (2023)"
@@ -933,7 +933,7 @@
     "notes": "8 hours 3 min 41 sec"
   },
   {
-    "name": "Tour de France (average)",
+    "name": "average Tour de France",
     "category": "Sports",
     "duration_s": 1900800,
     "notes": "~22 days",
@@ -1072,14 +1072,14 @@
     "notes": "4 years"
   },
   {
-    "name": "Oscar ceremony (average)",
+    "name": "average Oscar ceremony",
     "category": "Culture",
     "duration_s": 13500,
     "notes": "~3 hours 45 minutes",
     "proper_noun": true
   },
   {
-    "name": "Super Bowl game (average)",
+    "name": "average Super Bowl game",
     "category": "Culture",
     "duration_s": 13500,
     "notes": "~3.75 hours including halftime",
@@ -1092,7 +1092,7 @@
     "notes": "~1 hour"
   },
   {
-    "name": "Catholic Mass (standard)",
+    "name": "standard Catholic Mass",
     "category": "Culture",
     "duration_s": 3900,
     "notes": "~65 minutes"

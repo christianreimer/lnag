@@ -533,7 +533,7 @@
     "weight_kg": 15000
   },
   {
-    "name": "Tank (M1 Abrams)",
+    "name": "M1 Abrams Tank",
     "category": "Vehicle",
     "length_m": 9.8,
     "height_m": 2.4,
@@ -672,7 +672,7 @@
     "volume_m3": 2800
   },
   {
-    "name": "Helicopter (Black Hawk)",
+    "name": "Black Hawk Helicopter",
     "category": "Aircraft",
     "length_m": 19.8,
     "height_m": 5.1,
@@ -714,14 +714,14 @@
     "weight_kg": 128850
   },
   {
-    "name": "Blimp/Zeppelin (Goodyear)",
+    "name": "Goodyear Blimp/Zeppelin",
     "category": "Aircraft",
     "length_m": 73.0,
     "height_m": 17.4,
     "volume_m3": 5740
   },
   {
-    "name": "Drone (DJI Phantom)",
+    "name": "DJI Phantom Drone",
     "category": "Aircraft",
     "length_m": 0.35,
     "weight_kg": 1.4
@@ -763,7 +763,7 @@
     "weight_kg": 10185
   },
   {
-    "name": "Glider (standard)",
+    "name": "standard Glider",
     "category": "Aircraft",
     "length_m": 8.0,
     "weight_kg": 340
@@ -793,13 +793,13 @@
     "proper_noun": true
   },
   {
-    "name": "Oil Tanker (VLCC)",
+    "name": "VLCC Oil Tanker",
     "category": "Watercraft",
     "length_m": 333.0,
     "weight_kg": 300000000
   },
   {
-    "name": "Submarine (Ohio class)",
+    "name": "Ohio class Submarine",
     "category": "Watercraft",
     "length_m": 170.7,
     "weight_kg": 18750000,
@@ -820,7 +820,7 @@
     "weight_kg": 10000000
   },
   {
-    "name": "Sailboat (10m)",
+    "name": "10m Sailboat",
     "category": "Watercraft",
     "length_m": 10.0,
     "weight_kg": 5000
@@ -886,13 +886,13 @@
     "weight_kg": 350
   },
   {
-    "name": "Yacht (50ft)",
+    "name": "50ft Yacht",
     "category": "Watercraft",
     "length_m": 15.2,
     "weight_kg": 20000
   },
   {
-    "name": "Destroyer (Arleigh Burke class)",
+    "name": "Arleigh Burke class Destroyer",
     "category": "Watercraft",
     "length_m": 155.3,
     "weight_kg": 9217000,
@@ -1119,7 +1119,7 @@
     "weight_kg": 2.8
   },
   {
-    "name": "Shipping Container (20ft)",
+    "name": "20ft Shipping Container",
     "category": "Structure",
     "length_m": 6.06,
     "height_m": 2.44,
@@ -1128,7 +1128,7 @@
     "weight_kg": 2200
   },
   {
-    "name": "Shipping Container (40ft)",
+    "name": "40ft Shipping Container",
     "category": "Structure",
     "length_m": 12.19,
     "height_m": 2.44,
@@ -1143,12 +1143,12 @@
     "weight_kg": 680000000
   },
   {
-    "name": "Wind Turbine (onshore)",
+    "name": "onshore Wind Turbine",
     "category": "Structure",
     "height_m": 120.0
   },
   {
-    "name": "Radio Tower (typical)",
+    "name": "typical Radio Tower",
     "category": "Structure",
     "height_m": 300.0
   },
@@ -1159,7 +1159,7 @@
     "volume_m3": 500.0
   },
   {
-    "name": "Skyscraper (generic 50 floors)",
+    "name": "50 floor Skyscraper",
     "category": "Structure",
     "height_m": 200.0,
     "area_m2": 50000
@@ -1180,7 +1180,7 @@
     "volume_m3": 2500
   },
   {
-    "name": "Basketball Court (NBA)",
+    "name": "NBA Basketball Court",
     "category": "Sports Venue",
     "length_m": 28.65,
     "width_m": 15.24,
@@ -1212,12 +1212,12 @@
     "area_m2": 17000
   },
   {
-    "name": "Golf Course (18-hole)",
+    "name": "18-hole Golf Course",
     "category": "Sports Venue",
     "area_m2": 600000
   },
   {
-    "name": "Ice Hockey Rink (NHL)",
+    "name": "NHL Ice Hockey Rink",
     "category": "Sports Venue",
     "length_m": 61.0,
     "width_m": 26.0,
@@ -1230,7 +1230,7 @@
     "area_m2": 3900
   },
   {
-    "name": "Swimming Pool (standard)",
+    "name": "standard Swimming Pool",
     "category": "Sports Venue",
     "length_m": 25.0,
     "width_m": 10.0,
@@ -1434,37 +1434,34 @@
   {
     "name": "Moon",
     "category": "Celestial",
-    "length_m": 3474800.0,
     "weight_kg": 7.342e+22,
-    "proper_noun": true
+    "proper_noun": true,
+    "distance_m": 384400000
   },
   {
     "name": "Earth",
     "category": "Celestial",
-    "length_m": 12742000.0,
     "weight_kg": 5.972e+24,
-    "proper_noun": true
+    "distance_m": 149597870000
   },
   {
     "name": "Sun",
     "category": "Celestial",
-    "length_m": 1392700000.0,
     "weight_kg": 1.989e+30,
-    "proper_noun": true
+    "proper_noun": true,
+    "distance_m": 149597870000
   },
   {
     "name": "Mars",
     "category": "Celestial",
-    "length_m": 6779000.0,
     "weight_kg": 6.39e+23,
-    "proper_noun": true
+    "distance_m": 227900000000
   },
   {
     "name": "Jupiter",
     "category": "Celestial",
-    "length_m": 139820000.0,
     "weight_kg": 1.898e+27,
-    "proper_noun": true
+    "distance_m": 778500000000
   },
   {
     "name": "Mount Kilimanjaro",
@@ -1528,13 +1525,13 @@
     "weight_kg": 7.26
   },
   {
-    "name": "Football (American)",
+    "name": "American Football",
     "category": "Object",
     "length_m": 0.28,
     "weight_kg": 0.42
   },
   {
-    "name": "Olympic Barbell (loaded)",
+    "name": "loaded Olympic Barbell",
     "category": "Object",
     "length_m": 2.2,
     "weight_kg": 220
@@ -1547,13 +1544,13 @@
     "weight_kg": 0.172
   },
   {
-    "name": "Laptop Computer (15 inch)",
+    "name": "15 inch Laptop Computer",
     "category": "Object",
     "length_m": 0.358,
     "weight_kg": 1.8
   },
   {
-    "name": "Television (65 inch)",
+    "name": "65 inch Television",
     "category": "Object",
     "length_m": 1.45,
     "height_m": 0.83,
@@ -1638,28 +1635,28 @@
     "weight_kg": 60
   },
   {
-    "name": "Sofa (3-seater)",
+    "name": "3-seater Sofa",
     "category": "Object",
     "length_m": 2.2,
     "height_m": 0.85,
     "weight_kg": 90
   },
   {
-    "name": "Dining Table (6-seat)",
+    "name": "6-seat Dining Table",
     "category": "Object",
     "length_m": 1.83,
     "width_m": 0.9,
     "weight_kg": 60
   },
   {
-    "name": "Bookshelf (standard)",
+    "name": "standard Bookshelf",
     "category": "Object",
     "height_m": 1.83,
     "width_m": 0.9,
     "weight_kg": 40
   },
   {
-    "name": "Suitcase (large)",
+    "name": "large Suitcase",
     "category": "Object",
     "length_m": 0.78,
     "height_m": 0.53,
@@ -1667,7 +1664,7 @@
     "volume_m3": 0.11
   },
   {
-    "name": "Backpack (hiking 65L)",
+    "name": "65L hiking Backpack",
     "category": "Object",
     "volume_m3": 0.065,
     "weight_kg": 2.5
@@ -1681,7 +1678,7 @@
     "volume_m3": 0.18
   },
   {
-    "name": "Swimming Pool (backyard)",
+    "name": "backyard Swimming Pool",
     "category": "Object",
     "length_m": 12.0,
     "width_m": 6.0,
@@ -1734,7 +1731,7 @@
     "weight_kg": 70
   },
   {
-    "name": "Dumpster (standard)",
+    "name": "standard Dumpster",
     "category": "Object",
     "length_m": 2.0,
     "height_m": 1.07,
@@ -1774,7 +1771,7 @@
     "weight_kg": 0.45
   },
   {
-    "name": "Drum Kit (full)",
+    "name": "full Drum Kit",
     "category": "Object",
     "weight_kg": 40
   },
@@ -1857,13 +1854,13 @@
     "weight_kg": 0.5
   },
   {
-    "name": "Fishing Rod (standard)",
+    "name": "standard Fishing Rod",
     "category": "Object",
     "length_m": 2.1,
     "weight_kg": 0.3
   },
   {
-    "name": "Car Tire (standard)",
+    "name": "standard Car Tire",
     "category": "Object",
     "length_m": 0.66,
     "weight_kg": 12
@@ -1875,7 +1872,7 @@
     "weight_kg": 1
   },
   {
-    "name": "Anchor (ship)",
+    "name": "ship Anchor",
     "category": "Object",
     "weight_kg": 30000
   },
@@ -1901,7 +1898,7 @@
     "volume_m3": 17.3
   },
   {
-    "name": "Water Tower (typical)",
+    "name": "typical Water Tower",
     "category": "Object",
     "height_m": 36.0,
     "volume_m3": 4000,
@@ -1915,7 +1912,7 @@
     "weight_kg": 16
   },
   {
-    "name": "Silo (grain)",
+    "name": "grain Silo",
     "category": "Object",
     "height_m": 30.0,
     "volume_m3": 1000
@@ -1934,13 +1931,13 @@
     "weight_kg": 90
   },
   {
-    "name": "Flagpole (residential)",
+    "name": "residential Flagpole",
     "category": "Object",
     "height_m": 6.1,
     "weight_kg": 25
   },
   {
-    "name": "Textbook (standard)",
+    "name": "standard Textbook",
     "category": "Object",
     "length_m": 0.28,
     "weight_kg": 1.5
@@ -1996,7 +1993,7 @@
     "weight_kg": 0.5
   },
   {
-    "name": "Scissors (standard)",
+    "name": "standard Scissors",
     "category": "Object",
     "length_m": 0.21,
     "weight_kg": 0.1
@@ -2020,7 +2017,7 @@
     "weight_kg": 0.15
   },
   {
-    "name": "Wrench (adjustable)",
+    "name": "adjustable Wrench",
     "category": "Object",
     "length_m": 0.3,
     "weight_kg": 0.4
@@ -2032,7 +2029,7 @@
     "weight_kg": 5
   },
   {
-    "name": "Lawn Mower (push)",
+    "name": "push Lawn Mower",
     "category": "Object",
     "length_m": 1.4,
     "weight_kg": 30
@@ -2127,13 +2124,13 @@
     "weight_kg": 18
   },
   {
-    "name": "Steel I-Beam (standard)",
+    "name": "standard Steel I-Beam",
     "category": "Object",
     "length_m": 9.0,
     "weight_kg": 135
   },
   {
-    "name": "Wooden 2x4 (8ft)",
+    "name": "8ft Wooden 2x4",
     "category": "Object",
     "length_m": 2.44,
     "weight_kg": 2.7
@@ -2145,21 +2142,21 @@
     "weight_kg": 0.12
   },
   {
-    "name": "Bottled Water (500ml)",
+    "name": "500ml Bottled Water",
     "category": "Object",
     "height_m": 0.2,
     "volume_m3": 0.0005,
     "weight_kg": 0.5
   },
   {
-    "name": "Wine Bottle (750ml)",
+    "name": "750ml Wine Bottle",
     "category": "Object",
     "height_m": 0.3,
     "volume_m3": 0.00075,
     "weight_kg": 1.5
   },
   {
-    "name": "Beer Keg (standard)",
+    "name": "standard Beer Keg",
     "category": "Object",
     "height_m": 0.58,
     "volume_m3": 0.058,
@@ -2185,13 +2182,13 @@
     "weight_kg": 2
   },
   {
-    "name": "Cast Iron Skillet (12 inch)",
+    "name": "12 inch Cast Iron Skillet",
     "category": "Object",
     "length_m": 0.38,
     "weight_kg": 4.1
   },
   {
-    "name": "Kitchen Knife (chef's)",
+    "name": "chef's Kitchen Knife",
     "category": "Object",
     "length_m": 0.33,
     "weight_kg": 0.25
@@ -2224,7 +2221,7 @@
     "weight_kg": 2
   },
   {
-    "name": "Air Conditioner (window unit)",
+    "name": "window unit Air Conditioner",
     "category": "Object",
     "length_m": 0.6,
     "weight_kg": 40
@@ -2261,20 +2258,20 @@
     "weight_kg": 10
   },
   {
-    "name": "Calculator (scientific)",
+    "name": "scientific Calculator",
     "category": "Object",
     "length_m": 0.155,
     "weight_kg": 0.15
   },
   {
-    "name": "Printer (office)",
+    "name": "office Printer",
     "category": "Object",
     "length_m": 0.4,
     "height_m": 0.2,
     "weight_kg": 10
   },
   {
-    "name": "Server Rack (42U)",
+    "name": "42U Server Rack",
     "category": "Object",
     "height_m": 1.87,
     "length_m": 0.6,
@@ -2287,7 +2284,7 @@
     "weight_kg": 10
   },
   {
-    "name": "Monitor (27 inch)",
+    "name": "27 inch Monitor",
     "category": "Object",
     "length_m": 0.61,
     "height_m": 0.53,
@@ -2306,7 +2303,7 @@
     "weight_kg": 0.1
   },
   {
-    "name": "USB Flash Drive (64GB)",
+    "name": "64GB USB Flash Drive",
     "category": "Object",
     "length_m": 0.065,
     "weight_kg": 0.01
@@ -2333,13 +2330,13 @@
     "weight_kg": 0.046
   },
   {
-    "name": "Light Bulb (A19)",
+    "name": "A19 Light Bulb",
     "category": "Object",
     "length_m": 0.116,
     "weight_kg": 0.08
   },
   {
-    "name": "Filing Cabinet (4-drawer)",
+    "name": "4-drawer Filing Cabinet",
     "category": "Object",
     "height_m": 1.32,
     "width_m": 0.47,
@@ -2384,7 +2381,7 @@
     "weight_kg": 9
   },
   {
-    "name": "Pumpkin (large)",
+    "name": "large Pumpkin",
     "category": "Food",
     "length_m": 0.5,
     "weight_kg": 4
@@ -2396,12 +2393,12 @@
     "weight_kg": 0.4
   },
   {
-    "name": "Turkey (whole, cooked)",
+    "name": "whole cooked Turkey",
     "category": "Food",
     "weight_kg": 7
   },
   {
-    "name": "Wedding Cake (5-tier)",
+    "name": "5-tier Wedding Cake",
     "category": "Food",
     "height_m": 0.7,
     "weight_kg": 20
@@ -2431,31 +2428,31 @@
     "weight_kg": 0.2
   },
   {
-    "name": "Egg (chicken, large)",
+    "name": "large chicken Egg",
     "category": "Food",
     "length_m": 0.059,
     "weight_kg": 0.057
   },
   {
-    "name": "Chocolate Bar (standard)",
+    "name": "standard Chocolate Bar",
     "category": "Food",
     "length_m": 0.15,
     "weight_kg": 0.045
   },
   {
-    "name": "Pizza (16 inch)",
+    "name": "16 inch Pizza",
     "category": "Food",
     "length_m": 0.406,
     "weight_kg": 1.0
   },
   {
-    "name": "Hamburger (quarter pounder)",
+    "name": "quarter pounder Hamburger",
     "category": "Food",
     "length_m": 0.12,
     "weight_kg": 0.213
   },
   {
-    "name": "Wedding Cake (standard 2-tier)",
+    "name": "standard 2-tier Wedding Cake",
     "category": "Food",
     "height_m": 0.45,
     "weight_kg": 8
@@ -2468,7 +2465,7 @@
     "weight_kg": 0.56
   },
   {
-    "name": "Jar of Peanut Butter (40oz)",
+    "name": "40oz Jar of Peanut Butter",
     "category": "Food",
     "height_m": 0.19,
     "weight_kg": 1.13
@@ -2576,7 +2573,7 @@
     "weight_kg": 6
   },
   {
-    "name": "Surgical Robot (da Vinci)",
+    "name": "da Vinci Surgical Robot",
     "category": "Equipment",
     "height_m": 1.8,
     "weight_kg": 544
@@ -2594,20 +2591,20 @@
     "weight_kg": 4000
   },
   {
-    "name": "Telescope (Yerkes 40-inch refractor)",
+    "name": "Yerkes 40-inch refractor Telescope",
     "category": "Equipment",
     "length_m": 19.0,
     "weight_kg": 6000,
     "proper_noun": true
   },
   {
-    "name": "Wind Tunnel (large)",
+    "name": "large Wind Tunnel",
     "category": "Equipment",
     "length_m": 30.0,
     "volume_m3": 2000
   },
   {
-    "name": "Hydraulic Press (industrial)",
+    "name": "industrial Hydraulic Press",
     "category": "Industrial",
     "height_m": 3.0,
     "weight_kg": 5000
@@ -2619,7 +2616,7 @@
     "weight_kg": 500000
   },
   {
-    "name": "Printing Press (commercial)",
+    "name": "commercial Printing Press",
     "category": "Industrial",
     "length_m": 30.0,
     "weight_kg": 50000
@@ -2648,7 +2645,7 @@
     "weight_kg": 1000000
   },
   {
-    "name": "Solar Panel (residential)",
+    "name": "residential Solar Panel",
     "category": "Industrial",
     "length_m": 1.65,
     "width_m": 0.992,
@@ -2685,14 +2682,14 @@
     "weight_kg": 4500000
   },
   {
-    "name": "Aircraft Carrier (Nimitz class)",
+    "name": "Nimitz class Aircraft Carrier",
     "category": "Military",
     "length_m": 332.9,
     "weight_kg": 91000000,
     "proper_noun": true
   },
   {
-    "name": "Ballistic Missile (Minuteman III)",
+    "name": "Minuteman III Ballistic Missile",
     "category": "Military",
     "length_m": 18.3,
     "weight_kg": 35300
@@ -2716,7 +2713,7 @@
     "weight_kg": 3.47
   },
   {
-    "name": "Naval Cannon (16-inch)",
+    "name": "16-inch Naval Cannon",
     "category": "Military",
     "length_m": 20.0,
     "weight_kg": 108000
@@ -2742,12 +2739,12 @@
     "weight_kg": 19700
   },
   {
-    "name": "T-Shirt (adult large)",
+    "name": "adult large T-Shirt",
     "category": "Clothing",
     "weight_kg": 0.2
   },
   {
-    "name": "Jeans (adult)",
+    "name": "adult Jeans",
     "category": "Clothing",
     "weight_kg": 0.7
   },
@@ -2763,20 +2760,20 @@
     "weight_kg": 0.4
   },
   {
-    "name": "Backpack (student)",
+    "name": "student Backpack",
     "category": "Clothing",
     "height_m": 0.5,
     "weight_kg": 0.7,
     "volume_m3": 0.02
   },
   {
-    "name": "Helmet (bicycle)",
+    "name": "bicycle Helmet",
     "category": "Clothing",
     "length_m": 0.27,
     "weight_kg": 0.3
   },
   {
-    "name": "Helmet (football)",
+    "name": "football Helmet",
     "category": "Clothing",
     "length_m": 0.31,
     "weight_kg": 1.9
@@ -2787,7 +2784,7 @@
     "weight_kg": 2
   },
   {
-    "name": "Suit (men's)",
+    "name": "men's Suit",
     "category": "Clothing",
     "weight_kg": 1.4
   },
@@ -2799,7 +2796,7 @@
     "weight_kg": 3.2
   },
   {
-    "name": "Titanic (RMS)",
+    "name": "RMS Titanic",
     "category": "Watercraft",
     "length_m": 269.0,
     "height_m": 53.0,
@@ -2836,7 +2833,7 @@
     "proper_noun": true
   },
   {
-    "name": "Easter Island Moai (average)",
+    "name": "average Easter Island Moai",
     "category": "Artifact",
     "height_m": 4.0,
     "weight_kg": 14000,
@@ -2872,37 +2869,32 @@
   {
     "name": "Mercury",
     "category": "Celestial",
-    "length_m": 4879000.0,
     "weight_kg": 3.285e+23,
-    "proper_noun": true
+    "distance_m": 57910000000
   },
   {
     "name": "Venus",
     "category": "Celestial",
-    "length_m": 12104000.0,
     "weight_kg": 4.867e+24,
-    "proper_noun": true
+    "distance_m": 108200000000
   },
   {
     "name": "Saturn",
     "category": "Celestial",
-    "length_m": 116460000.0,
     "weight_kg": 5.683e+26,
-    "proper_noun": true
+    "distance_m": 1432000000000
   },
   {
     "name": "Neptune",
     "category": "Celestial",
-    "length_m": 49528000.0,
     "weight_kg": 1.024e+26,
-    "proper_noun": true
+    "distance_m": 4495000000000
   },
   {
     "name": "Pluto",
     "category": "Celestial",
-    "length_m": 2377000.0,
     "weight_kg": 1.309e+22,
-    "proper_noun": true
+    "distance_m": 5906000000000
   },
   {
     "name": "International Space Station orbit altitude",
@@ -3277,7 +3269,7 @@
     "weight_kg": 5000
   },
   {
-    "name": "Mail Truck (USPS)",
+    "name": "USPS Mail Truck",
     "category": "Vehicle",
     "length_m": 5.5,
     "height_m": 2.5,
@@ -3298,20 +3290,20 @@
     "weight_kg": 5500
   },
   {
-    "name": "Maglev Train (Chinese)",
+    "name": "Chinese Maglev Train",
     "category": "Vehicle",
     "length_m": 153.0,
     "height_m": 4.2,
     "weight_kg": 480000
   },
   {
-    "name": "Hyperloop Pod (concept)",
+    "name": "concept Hyperloop Pod",
     "category": "Vehicle",
     "length_m": 30.0,
     "weight_kg": 20000
   },
   {
-    "name": "Lunar Rover (Apollo)",
+    "name": "Apollo Lunar Rover",
     "category": "Vehicle",
     "length_m": 3.1,
     "weight_kg": 210
@@ -3330,7 +3322,7 @@
     "weight_kg": 18000
   },
   {
-    "name": "Dump Truck (standard)",
+    "name": "standard Dump Truck",
     "category": "Vehicle",
     "length_m": 9.0,
     "height_m": 3.5,
@@ -3344,7 +3336,7 @@
     "weight_kg": 100000
   },
   {
-    "name": "Bus Rapid Transit (articulated)",
+    "name": "articulated Bus Rapid Transit",
     "category": "Vehicle",
     "length_m": 18.0,
     "height_m": 3.5,
@@ -3364,7 +3356,7 @@
     "weight_kg": 14000
   },
   {
-    "name": "Howitzer (M777)",
+    "name": "M777 Howitzer",
     "category": "Military",
     "length_m": 10.6,
     "weight_kg": 4218
@@ -3375,7 +3367,7 @@
     "height_m": 59.0
   },
   {
-    "name": "Church Steeple (typical)",
+    "name": "typical Church Steeple",
     "category": "Structure",
     "height_m": 30.0
   },
@@ -3385,13 +3377,13 @@
     "height_m": 40.0
   },
   {
-    "name": "Roller Coaster (typical wooden)",
+    "name": "typical wooden Roller Coaster",
     "category": "Structure",
     "height_m": 45.0,
     "length_m": 1200.0
   },
   {
-    "name": "Ferris Wheel (standard)",
+    "name": "standard Ferris Wheel",
     "category": "Structure",
     "height_m": 30.0
   },
@@ -3420,7 +3412,7 @@
     "height_m": 1.8
   },
   {
-    "name": "Amphitheater (medium outdoor)",
+    "name": "medium outdoor Amphitheater",
     "category": "Structure",
     "area_m2": 10000
   },
@@ -3432,7 +3424,7 @@
     "width_m": 20.0
   },
   {
-    "name": "Billboard (standard US)",
+    "name": "standard US Billboard",
     "category": "Structure",
     "length_m": 14.6,
     "height_m": 4.9,
@@ -3446,7 +3438,7 @@
     "area_m2": 2000
   },
   {
-    "name": "Airport Runway (typical)",
+    "name": "typical Airport Runway",
     "category": "Structure",
     "length_m": 3000.0,
     "width_m": 60.0,
@@ -3509,7 +3501,7 @@
     "weight_kg": 140
   },
   {
-    "name": "Jukebox (vintage)",
+    "name": "vintage Jukebox",
     "category": "Object",
     "height_m": 1.5,
     "weight_kg": 135
@@ -3540,7 +3532,7 @@
     "weight_kg": 750
   },
   {
-    "name": "US Postal Mailbox (street)",
+    "name": "street US Postal Mailbox",
     "category": "Object",
     "height_m": 1.5,
     "weight_kg": 150
@@ -3564,14 +3556,14 @@
     "weight_kg": 3
   },
   {
-    "name": "Jersey Barrier (concrete)",
+    "name": "concrete Jersey Barrier",
     "category": "Object",
     "length_m": 3.0,
     "height_m": 0.81,
     "weight_kg": 1800
   },
   {
-    "name": "Greenhouse (standard residential)",
+    "name": "standard residential Greenhouse",
     "category": "Structure",
     "length_m": 6.0,
     "width_m": 3.0,
@@ -3579,13 +3571,13 @@
     "weight_kg": 400
   },
   {
-    "name": "Garden Fountain (medium)",
+    "name": "medium Garden Fountain",
     "category": "Structure",
     "height_m": 1.5,
     "weight_kg": 250
   },
   {
-    "name": "Gazebo (10x10)",
+    "name": "10x10 Gazebo",
     "category": "Structure",
     "length_m": 3.05,
     "width_m": 3.05,
@@ -3593,21 +3585,21 @@
     "weight_kg": 120
   },
   {
-    "name": "Swing Set (residential)",
+    "name": "residential Swing Set",
     "category": "Structure",
     "height_m": 2.4,
     "length_m": 3.7,
     "weight_kg": 90
   },
   {
-    "name": "Jungle Gym (playground)",
+    "name": "playground Jungle Gym",
     "category": "Structure",
     "height_m": 3.0,
     "area_m2": 30,
     "weight_kg": 800
   },
   {
-    "name": "Slide (playground)",
+    "name": "playground Slide",
     "category": "Structure",
     "length_m": 4.0,
     "height_m": 1.8,
@@ -3635,39 +3627,39 @@
     "area_m2": 432
   },
   {
-    "name": "Library (small public)",
+    "name": "small public Library",
     "category": "Structure",
     "area_m2": 1500
   },
   {
-    "name": "Classroom (standard)",
+    "name": "standard Classroom",
     "category": "Structure",
     "area_m2": 65
   },
   {
-    "name": "Hospital Room (standard)",
+    "name": "standard Hospital Room",
     "category": "Structure",
     "area_m2": 14
   },
   {
-    "name": "Hotel Room (standard)",
+    "name": "standard Hotel Room",
     "category": "Structure",
     "area_m2": 28
   },
   {
-    "name": "Parking Space (standard)",
+    "name": "standard Parking Space",
     "category": "Structure",
     "length_m": 5.5,
     "width_m": 2.75,
     "area_m2": 15.1
   },
   {
-    "name": "Parking Lot (100-space)",
+    "name": "100-space Parking Lot",
     "category": "Structure",
     "area_m2": 3350
   },
   {
-    "name": "Football Stadium (NFL average)",
+    "name": "average NFL Football Stadium",
     "category": "Structure",
     "area_m2": 650000
   },
@@ -3679,12 +3671,12 @@
     "proper_noun": true
   },
   {
-    "name": "Airport Terminal (medium)",
+    "name": "medium Airport Terminal",
     "category": "Structure",
     "area_m2": 150000
   },
   {
-    "name": "Shopping Mall (average US)",
+    "name": "average US Shopping Mall",
     "category": "Structure",
     "area_m2": 90000
   },
@@ -3704,32 +3696,32 @@
     "area_m2": 13300
   },
   {
-    "name": "McDonald's Restaurant (average)",
+    "name": "average McDonald's Restaurant",
     "category": "Structure",
     "area_m2": 390
   },
   {
-    "name": "Coffee Shop (Starbucks average)",
+    "name": "average Starbucks Coffee Shop",
     "category": "Structure",
     "area_m2": 140
   },
   {
-    "name": "Fire Station (typical)",
+    "name": "typical Fire Station",
     "category": "Structure",
     "area_m2": 600
   },
   {
-    "name": "Police Station (typical)",
+    "name": "typical Police Station",
     "category": "Structure",
     "area_m2": 700
   },
   {
-    "name": "Post Office (small)",
+    "name": "small Post Office",
     "category": "Structure",
     "area_m2": 250
   },
   {
-    "name": "Bank (standard)",
+    "name": "standard Bank",
     "category": "Structure",
     "area_m2": 350
   },
@@ -3739,7 +3731,7 @@
     "area_m2": 450
   },
   {
-    "name": "Car Wash (standard)",
+    "name": "standard Car Wash",
     "category": "Structure",
     "area_m2": 325
   },
@@ -3755,7 +3747,7 @@
     "weight_kg": 15000
   },
   {
-    "name": "Church Bell (large)",
+    "name": "large Church Bell",
     "category": "Object",
     "length_m": 2.0,
     "weight_kg": 17000
@@ -3774,21 +3766,21 @@
     "weight_kg": 90
   },
   {
-    "name": "Hot Tub (6-person)",
+    "name": "6-person Hot Tub",
     "category": "Object",
     "length_m": 2.25,
     "volume_m3": 1.7,
     "weight_kg": 350
   },
   {
-    "name": "Sauna Room (4-person)",
+    "name": "4-person Sauna Room",
     "category": "Object",
     "length_m": 1.8,
     "width_m": 1.5,
     "volume_m3": 5.4
   },
   {
-    "name": "City Block (Manhattan average)",
+    "name": "average Manhattan City Block",
     "category": "Structure",
     "length_m": 270.0,
     "width_m": 80.0,
@@ -4058,18 +4050,18 @@
     "weight_kg": 0.07
   },
   {
-    "name": "Umbrella (standard)",
+    "name": "standard Umbrella",
     "category": "Object",
     "length_m": 0.9,
     "weight_kg": 0.4
   },
   {
-    "name": "Hat (baseball cap)",
+    "name": "Baseball Cap",
     "category": "Clothing",
     "weight_kg": 0.1
   },
   {
-    "name": "Gloves (winter pair)",
+    "name": "winter Gloves",
     "category": "Clothing",
     "weight_kg": 0.2
   },
@@ -4099,7 +4091,7 @@
     "weight_kg": 1.5
   },
   {
-    "name": "Handbag (standard)",
+    "name": "standard Handbag",
     "category": "Object",
     "length_m": 0.35,
     "height_m": 0.28,
@@ -4126,19 +4118,19 @@
     "weight_kg": 0.7
   },
   {
-    "name": "Bible (standard)",
+    "name": "standard Bible",
     "category": "Object",
     "length_m": 0.23,
     "weight_kg": 0.5
   },
   {
-    "name": "Dictionary (unabridged)",
+    "name": "unabridged Dictionary",
     "category": "Object",
     "length_m": 0.3,
     "weight_kg": 5
   },
   {
-    "name": "Newspaper (folded)",
+    "name": "folded Newspaper",
     "category": "Object",
     "length_m": 0.3,
     "weight_kg": 0.3
@@ -4175,7 +4167,7 @@
     "weight_kg": 0.5
   },
   {
-    "name": "Thermometer (wall)",
+    "name": "wall Thermometer",
     "category": "Object",
     "length_m": 0.3,
     "weight_kg": 0.2
@@ -4193,13 +4185,13 @@
     "weight_kg": 0.8
   },
   {
-    "name": "Telescope (amateur, 8-inch)",
+    "name": "8-inch amateur Telescope",
     "category": "Object",
     "length_m": 1.2,
     "weight_kg": 15
   },
   {
-    "name": "Microscope (light)",
+    "name": "light Microscope",
     "category": "Object",
     "height_m": 0.35,
     "weight_kg": 3
@@ -4211,25 +4203,25 @@
     "weight_kg": 0.1
   },
   {
-    "name": "Camera (DSLR)",
+    "name": "DSLR Camera",
     "category": "Object",
     "length_m": 0.15,
     "weight_kg": 0.8
   },
   {
-    "name": "Tripod (standard)",
+    "name": "standard Tripod",
     "category": "Object",
     "height_m": 1.8,
     "weight_kg": 2
   },
   {
-    "name": "Movie Camera (IMAX)",
+    "name": "IMAX Movie Camera",
     "category": "Object",
     "length_m": 0.5,
     "weight_kg": 26
   },
   {
-    "name": "Projector (movie theater)",
+    "name": "movie theater Projector",
     "category": "Object",
     "length_m": 0.8,
     "weight_kg": 60
@@ -4241,7 +4233,7 @@
     "weight_kg": 0.15
   },
   {
-    "name": "Game Controller (Xbox)",
+    "name": "Xbox Game Controller",
     "category": "Object",
     "length_m": 0.15,
     "weight_kg": 0.28
@@ -4266,7 +4258,7 @@
     "weight_kg": 12
   },
   {
-    "name": "High Chair (baby)",
+    "name": "baby High Chair",
     "category": "Object",
     "height_m": 1.0,
     "weight_kg": 8
@@ -4363,13 +4355,13 @@
     "weight_kg": 0.21
   },
   {
-    "name": "Condor (Andean)",
+    "name": "Andean Condor",
     "category": "Animal",
     "length_m": 1.3,
     "weight_kg": 11.3
   },
   {
-    "name": "Albatross (Wandering)",
+    "name": "Wandering Albatross",
     "category": "Animal",
     "length_m": 1.35,
     "weight_kg": 9
@@ -4381,7 +4373,7 @@
     "weight_kg": 3.6
   },
   {
-    "name": "Pelican (Great White)",
+    "name": "Great White Pelican",
     "category": "Animal",
     "length_m": 1.75,
     "weight_kg": 13
@@ -4393,7 +4385,7 @@
     "weight_kg": 0.65
   },
   {
-    "name": "Macaw (Blue and Gold)",
+    "name": "Blue and Gold Macaw",
     "category": "Animal",
     "length_m": 0.86,
     "weight_kg": 1.2
@@ -4423,7 +4415,7 @@
     "weight_kg": 1.5
   },
   {
-    "name": "Hummingbird (Ruby-throated)",
+    "name": "Ruby-throated Hummingbird",
     "category": "Animal",
     "length_m": 0.089,
     "weight_kg": 0.003
@@ -4453,7 +4445,7 @@
     "weight_kg": 650
   },
   {
-    "name": "Marlin (Atlantic Blue)",
+    "name": "Atlantic Blue Marlin",
     "category": "Animal",
     "length_m": 5.0,
     "weight_kg": 820
@@ -4519,7 +4511,7 @@
     "weight_kg": 45
   },
   {
-    "name": "Sea Lion (Steller's)",
+    "name": "Steller's Sea Lion",
     "category": "Animal",
     "length_m": 3.3,
     "weight_kg": 1000
@@ -4531,7 +4523,7 @@
     "weight_kg": 250
   },
   {
-    "name": "Alligator (American)",
+    "name": "American Alligator",
     "category": "Animal",
     "length_m": 4.0,
     "weight_kg": 360
@@ -4579,7 +4571,7 @@
     "weight_kg": 35
   },
   {
-    "name": "Tarantula (Goliath Birdeater)",
+    "name": "Goliath Birdeater Tarantula",
     "category": "Animal",
     "length_m": 0.28,
     "weight_kg": 0.175
@@ -4632,7 +4624,7 @@
     "weight_kg": null
   },
   {
-    "name": "Octopus (Giant Pacific)",
+    "name": "Giant Pacific Octopus",
     "category": "Animal",
     "length_m": 5.0,
     "weight_kg": 71
@@ -4852,7 +4844,7 @@
     "proper_noun": true
   },
   {
-    "name": "Biplane (Tiger Moth)",
+    "name": "Tiger Moth Biplane",
     "category": "Aircraft",
     "length_m": 7.6,
     "weight_kg": 506
@@ -4878,7 +4870,7 @@
     "weight_kg": 5
   },
   {
-    "name": "Parachute (round, military)",
+    "name": "round military Parachute",
     "category": "Object",
     "length_m": 9.0,
     "weight_kg": 15
@@ -4902,13 +4894,13 @@
     "weight_kg": 5
   },
   {
-    "name": "Ski (alpine, 175cm)",
+    "name": "175cm alpine Ski",
     "category": "Object",
     "length_m": 1.75,
     "weight_kg": 1.8
   },
   {
-    "name": "Paddleboard (SUP)",
+    "name": "SUP Paddleboard",
     "category": "Watercraft",
     "length_m": 3.35,
     "weight_kg": 11
@@ -4920,13 +4912,13 @@
     "weight_kg": 40
   },
   {
-    "name": "Catamaran (standard)",
+    "name": "standard Catamaran",
     "category": "Watercraft",
     "length_m": 12.0,
     "weight_kg": 3000
   },
   {
-    "name": "Houseboat (average)",
+    "name": "average Houseboat",
     "category": "Watercraft",
     "length_m": 12.0,
     "height_m": 4.0,
@@ -4945,7 +4937,7 @@
     "weight_kg": 1800
   },
   {
-    "name": "Tall Ship (replica 3-mast)",
+    "name": "3-mast replica Tall Ship",
     "category": "Watercraft",
     "length_m": 55.0,
     "height_m": 30.0,
@@ -4977,7 +4969,7 @@
     "weight_kg": 16000
   },
   {
-    "name": "Tractor (large farm)",
+    "name": "large farm Tractor",
     "category": "Vehicle",
     "length_m": 5.5,
     "height_m": 3.5,
@@ -4990,14 +4982,14 @@
     "weight_kg": 500
   },
   {
-    "name": "Square Hay Bale (large)",
+    "name": "large Square Hay Bale",
     "category": "Object",
     "length_m": 2.4,
     "height_m": 1.2,
     "weight_kg": 900
   },
   {
-    "name": "Greenhouse (commercial)",
+    "name": "commercial Greenhouse",
     "category": "Structure",
     "length_m": 100.0,
     "width_m": 30.0,
@@ -5009,7 +5001,7 @@
     "height_m": 200.0
   },
   {
-    "name": "Cooling Tower (nuclear)",
+    "name": "nuclear Cooling Tower",
     "category": "Industrial",
     "height_m": 150.0
   },
@@ -5062,7 +5054,7 @@
     "weight_kg": 5.4
   },
   {
-    "name": "Axe (splitting)",
+    "name": "splitting Axe",
     "category": "Object",
     "length_m": 0.9,
     "weight_kg": 2.3
@@ -5092,13 +5084,13 @@
     "weight_kg": 1.3
   },
   {
-    "name": "Spade (garden)",
+    "name": "garden Spade",
     "category": "Object",
     "length_m": 1.2,
     "weight_kg": 2
   },
   {
-    "name": "Trowel (garden)",
+    "name": "garden Trowel",
     "category": "Object",
     "length_m": 0.28,
     "weight_kg": 0.2
@@ -5124,7 +5116,7 @@
     "weight_kg": 0.34
   },
   {
-    "name": "Punching Bag (heavy)",
+    "name": "heavy Punching Bag",
     "category": "Object",
     "height_m": 1.0,
     "weight_kg": 68
@@ -5231,7 +5223,7 @@
     "weight_kg": 0.52
   },
   {
-    "name": "Bow and Arrow (recurve)",
+    "name": "recurve Bow and Arrow",
     "category": "Object",
     "length_m": 1.7,
     "weight_kg": 1.2

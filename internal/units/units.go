@@ -33,6 +33,10 @@ var unitTable = map[string]UnitInfo{
 	"acres":    {"area", 4046.86},
 	"hectares": {"area", 10000},
 
+	// distance (base: meters) — same physical unit as length but separate dimension
+	"au": {"distance", 149597870700},
+	"ly": {"distance", 9.4607e15},
+
 	// duration (base: seconds)
 	"s":       {"duration", 1},
 	"sec":     {"duration", 1},

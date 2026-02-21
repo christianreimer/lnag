@@ -47,11 +47,13 @@ func TestConceptValueFor(t *testing.T) {
 	weight := 5000.0
 	height := 3.3
 	duration := 60.0
+	distance := 149597870000.0
 	c := Concept{
 		Name:      "African Elephant",
 		WeightKg:  &weight,
 		HeightM:   &height,
 		DurationS: &duration,
+		DistanceM: &distance,
 	}
 
 	tests := []struct {
@@ -64,6 +66,7 @@ func TestConceptValueFor(t *testing.T) {
 		{"length", 0, false},
 		{"volume", 0, false},
 		{"duration", 60, true},
+		{"distance", 149597870000, true},
 	}
 
 	for _, tt := range tests {
@@ -106,7 +109,7 @@ func TestLoadConceptsHasDurations(t *testing.T) {
 	}
 	found := false
 	for _, c := range concepts {
-		if c.Name == "Marathon world record (men)" {
+		if c.Name == "men's Marathon world record" {
 			found = true
 			if c.DurationS == nil {
 				t.Error("Marathon world record duration_s should not be nil")
@@ -119,7 +122,7 @@ func TestLoadConceptsHasDurations(t *testing.T) {
 		}
 	}
 	if !found {
-		t.Error("Marathon world record (men) not found in concepts")
+		t.Error("men's Marathon world record not found in concepts")
 	}
 }
 
