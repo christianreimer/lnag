@@ -1,0 +1,1394 @@
+[
+  {
+    "name": "Eye blink",
+    "category": "Biology",
+    "duration_s": 0.15,
+    "notes": "Average human blink duration"
+  },
+  {
+    "name": "Human sneeze",
+    "category": "Biology",
+    "duration_s": 0.5,
+    "notes": "Average sneeze"
+  },
+  {
+    "name": "Human heartbeat (one beat)",
+    "category": "Biology",
+    "duration_s": 0.86,
+    "notes": "At 70 bpm resting"
+  },
+  {
+    "name": "Human breath cycle (rest)",
+    "category": "Biology",
+    "duration_s": 4.0,
+    "notes": "Average at rest, ~15 breaths/min"
+  },
+  {
+    "name": "REM sleep cycle",
+    "category": "Biology",
+    "duration_s": 5400,
+    "notes": "Approximately 90 minutes"
+  },
+  {
+    "name": "Human sleep cycle",
+    "category": "Biology",
+    "duration_s": 5400,
+    "notes": "Full 90-min NREM+REM cycle"
+  },
+  {
+    "name": "Average night of sleep",
+    "category": "Biology",
+    "duration_s": 28800,
+    "notes": "8 hours"
+  },
+  {
+    "name": "Human reaction time (visual)",
+    "category": "Biology",
+    "duration_s": 0.25,
+    "notes": "Average visual stimulus reaction"
+  },
+  {
+    "name": "Average human lifespan (global)",
+    "category": "Biology",
+    "duration_s": 2272320000,
+    "notes": "~72 years"
+  },
+  {
+    "name": "Human gestation (pregnancy)",
+    "category": "Biology",
+    "duration_s": 23587200,
+    "notes": "280 days / 40 weeks"
+  },
+  {
+    "name": "Newborn sleep per day",
+    "category": "Biology",
+    "duration_s": 61200,
+    "notes": "17 hours/day"
+  },
+  {
+    "name": "Time for food through stomach",
+    "category": "Biology",
+    "duration_s": 14400,
+    "notes": "4 hours average gastric emptying"
+  },
+  {
+    "name": "Full human digestion",
+    "category": "Biology",
+    "duration_s": 151200,
+    "notes": "~42 hours total transit time"
+  },
+  {
+    "name": "Red blood cell lifespan",
+    "category": "Biology",
+    "duration_s": 10368000,
+    "notes": "~120 days"
+  },
+  {
+    "name": "Human hair growth (1cm)",
+    "category": "Biology",
+    "duration_s": 2592000,
+    "notes": "~1 cm per month"
+  },
+  {
+    "name": "Fingernail growth (1mm)",
+    "category": "Biology",
+    "duration_s": 864000,
+    "notes": "~1mm per 10 days"
+  },
+  {
+    "name": "Wound healing (minor cut)",
+    "category": "Biology",
+    "duration_s": 604800,
+    "notes": "~7 days"
+  },
+  {
+    "name": "Bone fracture healing",
+    "category": "Biology",
+    "duration_s": 5184000,
+    "notes": "~6\u20138 weeks"
+  },
+  {
+    "name": "Time to fall asleep (average)",
+    "category": "Biology",
+    "duration_s": 420,
+    "notes": "7 minutes average sleep latency"
+  },
+  {
+    "name": "Human cough",
+    "category": "Biology",
+    "duration_s": 0.5,
+    "notes": "Single cough reflex"
+  },
+  {
+    "name": "Lightning strike",
+    "category": "Physics",
+    "duration_s": 0.0002,
+    "notes": "A single return stroke ~200 microseconds"
+  },
+  {
+    "name": "Speed of light across Earth's diameter",
+    "category": "Physics",
+    "duration_s": 0.0425,
+    "notes": "~42.5 milliseconds"
+  },
+  {
+    "name": "Sound crossing a football field",
+    "category": "Physics",
+    "duration_s": 0.3,
+    "notes": "100m at 343 m/s"
+  },
+  {
+    "name": "Sunlight travel to Earth",
+    "category": "Physics",
+    "duration_s": 499,
+    "notes": "8 minutes 19 seconds"
+  },
+  {
+    "name": "Moonlight travel to Earth",
+    "category": "Physics",
+    "duration_s": 1.28,
+    "notes": "~1.28 seconds"
+  },
+  {
+    "name": "Radioactive decay (Carbon-14 half-life)",
+    "category": "Physics",
+    "duration_s": 179881920000,
+    "notes": "5,730 years"
+  },
+  {
+    "name": "Radioactive decay (Uranium-238 half-life)",
+    "category": "Physics",
+    "duration_s": 1.41e+17,
+    "notes": "4.47 billion years"
+  },
+  {
+    "name": "Nuclear fission chain reaction",
+    "category": "Physics",
+    "duration_s": 1e-06,
+    "notes": "~1 microsecond per generation"
+  },
+  {
+    "name": "Hiroshima bomb detonation (fission)",
+    "category": "Physics",
+    "duration_s": 1e-06,
+    "notes": "Critical chain reaction ~1 microsecond"
+  },
+  {
+    "name": "Supernova explosion (core collapse)",
+    "category": "Physics",
+    "duration_s": 0.1,
+    "notes": "Core collapse in milliseconds to tenths of a second"
+  },
+  {
+    "name": "Supernova visible from Earth",
+    "category": "Physics",
+    "duration_s": 7776000,
+    "notes": "Visible for ~90 days"
+  },
+  {
+    "name": "Time for Earth to rotate 1 degree",
+    "category": "Physics",
+    "duration_s": 240,
+    "notes": "4 minutes"
+  },
+  {
+    "name": "Earth rotation (1 day)",
+    "category": "Physics",
+    "duration_s": 86164,
+    "notes": "Sidereal day: 23h 56m 4s"
+  },
+  {
+    "name": "Earth orbit around Sun (1 year)",
+    "category": "Physics",
+    "duration_s": 31557600,
+    "notes": "365.25 days"
+  },
+  {
+    "name": "Moon orbit around Earth",
+    "category": "Physics",
+    "duration_s": 2360592,
+    "notes": "27.3 days sidereal"
+  },
+  {
+    "name": "Tidal cycle (high to high tide)",
+    "category": "Physics",
+    "duration_s": 44714,
+    "notes": "12 hours 25 minutes"
+  },
+  {
+    "name": "Precession of Earth's axis",
+    "category": "Physics",
+    "duration_s": 814000000000,
+    "notes": "~25,800 years"
+  },
+  {
+    "name": "Milankovitch cycle (eccentricity)",
+    "category": "Physics",
+    "duration_s": 2940000000000.0,
+    "notes": "~93,000 year orbital cycle"
+  },
+  {
+    "name": "Speed of nerve impulse across body",
+    "category": "Physics",
+    "duration_s": 0.025,
+    "notes": "~25ms at 70 m/s"
+  },
+  {
+    "name": "Time for bullet to travel 1km",
+    "category": "Physics",
+    "duration_s": 1.1,
+    "notes": "At ~900 m/s muzzle velocity"
+  },
+  {
+    "name": "2004 Indian Ocean Tsunami (wave travel)",
+    "category": "Geology",
+    "duration_s": 7200,
+    "notes": "~2 hours to reach Sri Lanka from epicenter"
+  },
+  {
+    "name": "2011 T\u014dhoku earthquake duration",
+    "category": "Geology",
+    "duration_s": 360,
+    "notes": "6 minutes of shaking"
+  },
+  {
+    "name": "1906 San Francisco earthquake",
+    "category": "Geology",
+    "duration_s": 60,
+    "notes": "~45\u201360 seconds of shaking"
+  },
+  {
+    "name": "1980 Mount St. Helens eruption (initial blast)",
+    "category": "Geology",
+    "duration_s": 7200,
+    "notes": "~2 hours of initial explosive eruption"
+  },
+  {
+    "name": "1883 Krakatoa eruption",
+    "category": "Geology",
+    "duration_s": 172800,
+    "notes": "~2 days of major eruptions"
+  },
+  {
+    "name": "Chicxulub asteroid impact",
+    "category": "Geology",
+    "duration_s": 1800,
+    "notes": "~30 minutes from atmospheric entry to impact"
+  },
+  {
+    "name": "Ice Age (last glacial maximum)",
+    "category": "Geology",
+    "duration_s": 3150000000000.0,
+    "notes": "~100,000 years"
+  },
+  {
+    "name": "Yellowstone eruption interval",
+    "category": "Geology",
+    "duration_s": 20100000000000.0,
+    "notes": "Average ~640,000 years between supereruptions"
+  },
+  {
+    "name": "Continental drift (1cm)",
+    "category": "Geology",
+    "duration_s": 31557600,
+    "notes": "~1 year per centimeter"
+  },
+  {
+    "name": "Formation of Grand Canyon",
+    "category": "Geology",
+    "duration_s": 158000000000000.0,
+    "notes": "~5\u20136 million years"
+  },
+  {
+    "name": "Great Oxidation Event duration",
+    "category": "Geology",
+    "duration_s": 630000000000000.0,
+    "notes": "~20 million years"
+  },
+  {
+    "name": "Average earthquake (felt)",
+    "category": "Geology",
+    "duration_s": 30,
+    "notes": "Typical felt earthquake ~10-30 seconds"
+  },
+  {
+    "name": "Volcanic lava flow (1km)",
+    "category": "Geology",
+    "duration_s": 3600,
+    "notes": "~1 hour for slow basaltic lava"
+  },
+  {
+    "name": "Pompeii eruption (Vesuvius 79 AD)",
+    "category": "Geology",
+    "duration_s": 86400,
+    "notes": "~24 hours of eruption"
+  },
+  {
+    "name": "Tambora eruption 1815",
+    "category": "Geology",
+    "duration_s": 604800,
+    "notes": "~7 days of major eruptive phase"
+  },
+  {
+    "name": "Formation of Hawaiian islands",
+    "category": "Geology",
+    "duration_s": 1580000000000000.0,
+    "notes": "~50 million years"
+  },
+  {
+    "name": "Permian mass extinction",
+    "category": "Geology",
+    "duration_s": 3150000000000.0,
+    "notes": "~100,000 years"
+  },
+  {
+    "name": "K-Pg extinction event",
+    "category": "Geology",
+    "duration_s": 630000000000.0,
+    "notes": "~20,000 years for ecosystems to collapse"
+  },
+  {
+    "name": "Tsunami wave period",
+    "category": "Geology",
+    "duration_s": 1800,
+    "notes": "10-60 minutes between wave crests"
+  },
+  {
+    "name": "Snowball Earth glaciation",
+    "category": "Geology",
+    "duration_s": 3150000000000000.0,
+    "notes": "~100 million years"
+  },
+  {
+    "name": "Apollo 11 Moon landing (descent)",
+    "category": "Historical",
+    "duration_s": 720,
+    "notes": "~12 minutes powered descent"
+  },
+  {
+    "name": "Apollo 11 moonwalk (first EVA)",
+    "category": "Historical",
+    "duration_s": 8316,
+    "notes": "2 hours 31 minutes 40 seconds"
+  },
+  {
+    "name": "Apollo 11 total mission",
+    "category": "Historical",
+    "duration_s": 703200,
+    "notes": "8 days 3 hours 18 minutes"
+  },
+  {
+    "name": "First powered airplane flight (Wright 1903)",
+    "category": "Historical",
+    "duration_s": 12,
+    "notes": "12 seconds, 37 meters"
+  },
+  {
+    "name": "Titanic sinking",
+    "category": "Historical",
+    "duration_s": 9960,
+    "notes": "2 hours 40 minutes from collision to sinking"
+  },
+  {
+    "name": "Hiroshima bomb detonation to shockwave",
+    "category": "Historical",
+    "duration_s": 43,
+    "notes": "~43 seconds for shockwave to reach ground zero area"
+  },
+  {
+    "name": "World War I duration",
+    "category": "Historical",
+    "duration_s": 134784000,
+    "notes": "~4 years 3 months"
+  },
+  {
+    "name": "World War II duration",
+    "category": "Historical",
+    "duration_s": 188640000,
+    "notes": "~6 years"
+  },
+  {
+    "name": "Cold War duration",
+    "category": "Historical",
+    "duration_s": 1387584000,
+    "notes": "~44 years (1947\u20131991)"
+  },
+  {
+    "name": "Roman Empire duration (Western)",
+    "category": "Historical",
+    "duration_s": 14073868800,
+    "notes": "~446 years (27 BC \u2013 476 AD)"
+  },
+  {
+    "name": "British Empire at peak (duration)",
+    "category": "Historical",
+    "duration_s": 11360160000,
+    "notes": "~360 years at height"
+  },
+  {
+    "name": "Hundred Years' War",
+    "category": "Historical",
+    "duration_s": 3617280000,
+    "notes": "116 years (1337\u20131453)"
+  },
+  {
+    "name": "Thirty Years' War",
+    "category": "Historical",
+    "duration_s": 947289600,
+    "notes": "30 years (1618\u20131648)"
+  },
+  {
+    "name": "American Civil War",
+    "category": "Historical",
+    "duration_s": 131760000,
+    "notes": "~4 years 1 month"
+  },
+  {
+    "name": "French Revolution",
+    "category": "Historical",
+    "duration_s": 315360000,
+    "notes": "~10 years (1789\u20131799)"
+  },
+  {
+    "name": "Siege of Leningrad",
+    "category": "Historical",
+    "duration_s": 27993600,
+    "notes": "872 days (1941\u20131944)"
+  },
+  {
+    "name": "Chernobyl explosion to reactor fire extinguished",
+    "category": "Historical",
+    "duration_s": 1296000,
+    "notes": "~15 days to contain initial fire"
+  },
+  {
+    "name": "Moon to Earth radio signal delay",
+    "category": "Historical",
+    "duration_s": 1.28,
+    "notes": "Speed of light delay"
+  },
+  {
+    "name": "Berlin Wall standing",
+    "category": "Historical",
+    "duration_s": 884995200,
+    "notes": "28 years (1961\u20131989)"
+  },
+  {
+    "name": "D-Day Normandy invasion (June 6, 1944)",
+    "category": "Historical",
+    "duration_s": 86400,
+    "notes": "24 hours of initial assault"
+  },
+  {
+    "name": "Battle of Gettysburg",
+    "category": "Historical",
+    "duration_s": 259200,
+    "notes": "3 days (July 1\u20133, 1863)"
+  },
+  {
+    "name": "Cuban Missile Crisis",
+    "category": "Historical",
+    "duration_s": 1166400,
+    "notes": "13 days (Oct 16\u201328, 1962)"
+  },
+  {
+    "name": "Moon race (Sputnik to Apollo 11)",
+    "category": "Historical",
+    "duration_s": 374803200,
+    "notes": "~11.9 years (1957\u20131969)"
+  },
+  {
+    "name": "Construction of Eiffel Tower",
+    "category": "Historical",
+    "duration_s": 66355200,
+    "notes": "~2 years 2 months (1887\u20131889)"
+  },
+  {
+    "name": "Construction of Great Pyramid of Giza",
+    "category": "Historical",
+    "duration_s": 630720000,
+    "notes": "~20 years estimated"
+  },
+  {
+    "name": "Black Death pandemic (Europe)",
+    "category": "Historical",
+    "duration_s": 220752000,
+    "notes": "~7 years (1347\u20131353) in Europe"
+  },
+  {
+    "name": "Spanish Flu pandemic 1918",
+    "category": "Historical",
+    "duration_s": 63072000,
+    "notes": "~2 years (1918\u20131920)"
+  },
+  {
+    "name": "COVID-19 pandemic (declared to end of PHE)",
+    "category": "Historical",
+    "duration_s": 99360000,
+    "notes": "~3.1 years (Jan 2020 \u2013 May 2023)"
+  },
+  {
+    "name": "Great Fire of London 1666",
+    "category": "Historical",
+    "duration_s": 345600,
+    "notes": "4 days (Sept 2\u20136, 1666)"
+  },
+  {
+    "name": "Pompeii burial (79 AD eruption)",
+    "category": "Historical",
+    "duration_s": 86400,
+    "notes": "~24 hours of pyroclastic burial"
+  },
+  {
+    "name": "Construction of Panama Canal",
+    "category": "Historical",
+    "duration_s": 315360000,
+    "notes": "~10 years (1904\u20131914)"
+  },
+  {
+    "name": "Construction of Empire State Building",
+    "category": "Historical",
+    "duration_s": 34128000,
+    "notes": "410 days"
+  },
+  {
+    "name": "Manhattan Project (Trinity to Hiroshima)",
+    "category": "Historical",
+    "duration_s": 2419200,
+    "notes": "28 days (July 16 to Aug 6, 1945)"
+  },
+  {
+    "name": "Space Shuttle Challenger disaster",
+    "category": "Historical",
+    "duration_s": 73,
+    "notes": "73 seconds after launch"
+  },
+  {
+    "name": "Space Shuttle Columbia reentry disaster",
+    "category": "Historical",
+    "duration_s": 960,
+    "notes": "~16 minutes during reentry"
+  },
+  {
+    "name": "Voyager 1 reaching interstellar space",
+    "category": "Historical",
+    "duration_s": 1135296000,
+    "notes": "~36 years after launch (1977\u20132012)"
+  },
+  {
+    "name": "Wright Brothers first flight to Moon landing",
+    "category": "Historical",
+    "duration_s": 2082758400,
+    "notes": "~66 years (1903\u20131969)"
+  },
+  {
+    "name": "First iPhone to present (2007\u20132025)",
+    "category": "Historical",
+    "duration_s": 567993600,
+    "notes": "~18 years"
+  },
+  {
+    "name": "Human civilization (writing to present)",
+    "category": "Historical",
+    "duration_s": 158112000000,
+    "notes": "~5,000 years"
+  },
+  {
+    "name": "Agricultural revolution",
+    "category": "Historical",
+    "duration_s": 3150000000000.0,
+    "notes": "~12,000 years ago, over ~3,000 years"
+  },
+  {
+    "name": "Industrial Revolution duration",
+    "category": "Historical",
+    "duration_s": 3153600000,
+    "notes": "~100 years (1760\u20131860)"
+  },
+  {
+    "name": "Average thunderstorm",
+    "category": "Weather",
+    "duration_s": 1800,
+    "notes": "~30 minutes"
+  },
+  {
+    "name": "Tornado (average)",
+    "category": "Weather",
+    "duration_s": 600,
+    "notes": "~10 minutes on ground"
+  },
+  {
+    "name": "1925 Tri-State Tornado",
+    "category": "Weather",
+    "duration_s": 12600,
+    "notes": "3.5 hours on ground"
+  },
+  {
+    "name": "Hurricane season",
+    "category": "Weather",
+    "duration_s": 15897600,
+    "notes": "June 1 \u2013 Nov 30, ~184 days"
+  },
+  {
+    "name": "Average hurricane lifespan",
+    "category": "Weather",
+    "duration_s": 777600,
+    "notes": "~9 days"
+  },
+  {
+    "name": "Hurricane Katrina (Cat 5 peak duration)",
+    "category": "Weather",
+    "duration_s": 32400,
+    "notes": "~9 hours at Category 5"
+  },
+  {
+    "name": "Great Blizzard of 1888",
+    "category": "Weather",
+    "duration_s": 129600,
+    "notes": "36 hours of blizzard"
+  },
+  {
+    "name": "Solar flare (X-class)",
+    "category": "Weather",
+    "duration_s": 3600,
+    "notes": "1 hour typical duration"
+  },
+  {
+    "name": "Geomagnetic storm",
+    "category": "Weather",
+    "duration_s": 259200,
+    "notes": "~1\u20133 days"
+  },
+  {
+    "name": "El Ni\u00f1o event",
+    "category": "Weather",
+    "duration_s": 47347200,
+    "notes": "~18 months average"
+  },
+  {
+    "name": "Monsoon season (South Asia)",
+    "category": "Weather",
+    "duration_s": 10368000,
+    "notes": "~4 months (June\u2013September)"
+  },
+  {
+    "name": "Polar night (at North Pole)",
+    "category": "Weather",
+    "duration_s": 15897600,
+    "notes": "~184 days of continuous darkness"
+  },
+  {
+    "name": "Average rainstorm duration",
+    "category": "Weather",
+    "duration_s": 3600,
+    "notes": "~1 hour typical"
+  },
+  {
+    "name": "Saharan dust cloud crossing Atlantic",
+    "category": "Weather",
+    "duration_s": 604800,
+    "notes": "~7 days"
+  },
+  {
+    "name": "1815 'Year Without a Summer'",
+    "category": "Weather",
+    "duration_s": 31536000,
+    "notes": "1 full year of climate disruption"
+  },
+  {
+    "name": "Dust Bowl period",
+    "category": "Weather",
+    "duration_s": 315360000,
+    "notes": "~10 years (1930\u20131940)"
+  },
+  {
+    "name": "Little Ice Age",
+    "category": "Weather",
+    "duration_s": 12600000000000.0,
+    "notes": "~400 years (roughly 1300\u20131700)"
+  },
+  {
+    "name": "Average fog event",
+    "category": "Weather",
+    "duration_s": 14400,
+    "notes": "~4 hours"
+  },
+  {
+    "name": "London Great Smog 1952",
+    "category": "Weather",
+    "duration_s": 432000,
+    "notes": "5 days (Dec 5\u20139, 1952)"
+  },
+  {
+    "name": "Solar eclipse (totality)",
+    "category": "Weather",
+    "duration_s": 440,
+    "notes": "Max totality ~7 min 32 sec"
+  },
+  {
+    "name": "Big Bang to first stars",
+    "category": "Astronomy",
+    "duration_s": 6300000000000000.0,
+    "notes": "~200 million years"
+  },
+  {
+    "name": "Age of the Universe",
+    "category": "Astronomy",
+    "duration_s": 4.35e+17,
+    "notes": "~13.8 billion years"
+  },
+  {
+    "name": "Formation of Solar System",
+    "category": "Astronomy",
+    "duration_s": 1580000000000000.0,
+    "notes": "~50 million years"
+  },
+  {
+    "name": "Age of Earth",
+    "category": "Astronomy",
+    "duration_s": 1.43e+17,
+    "notes": "~4.54 billion years"
+  },
+  {
+    "name": "Sun's remaining lifespan (main sequence)",
+    "category": "Astronomy",
+    "duration_s": 1.58e+17,
+    "notes": "~5 billion years"
+  },
+  {
+    "name": "Jupiter's rotation (one day)",
+    "category": "Astronomy",
+    "duration_s": 35730,
+    "notes": "9 hours 55 minutes"
+  },
+  {
+    "name": "Venus rotation (one day)",
+    "category": "Astronomy",
+    "duration_s": 20995200,
+    "notes": "243 Earth days"
+  },
+  {
+    "name": "Mars rotation (one day)",
+    "category": "Astronomy",
+    "duration_s": 88642,
+    "notes": "24h 37m 22s"
+  },
+  {
+    "name": "Saturn's orbit (one year)",
+    "category": "Astronomy",
+    "duration_s": 929292000,
+    "notes": "~29.5 Earth years"
+  },
+  {
+    "name": "Pluto's orbit (one year)",
+    "category": "Astronomy",
+    "duration_s": 7816176000,
+    "notes": "~247.9 Earth years"
+  },
+  {
+    "name": "Light travel from nearest star (Proxima Centauri)",
+    "category": "Astronomy",
+    "duration_s": 133430880,
+    "notes": "4.24 light-years = ~4.24 years"
+  },
+  {
+    "name": "Light travel from Andromeda Galaxy",
+    "category": "Astronomy",
+    "duration_s": 66200000000000.0,
+    "notes": "2.1 million light-years"
+  },
+  {
+    "name": "Halley's Comet orbital period",
+    "category": "Astronomy",
+    "duration_s": 2366380800,
+    "notes": "~75 years"
+  },
+  {
+    "name": "Voyager 1 travel to heliopause",
+    "category": "Astronomy",
+    "duration_s": 1104537600,
+    "notes": "~35 years (1977\u20132012)"
+  },
+  {
+    "name": "Gamma-ray burst (short)",
+    "category": "Astronomy",
+    "duration_s": 0.3,
+    "notes": "Short GRBs last milliseconds to 2 seconds"
+  },
+  {
+    "name": "Gamma-ray burst (long)",
+    "category": "Astronomy",
+    "duration_s": 30,
+    "notes": "Long GRBs last 2s to minutes"
+  },
+  {
+    "name": "Pulsar rotation period",
+    "category": "Astronomy",
+    "duration_s": 0.0016,
+    "notes": "Fastest known: 1.6 milliseconds"
+  },
+  {
+    "name": "Solar cycle (sunspot cycle)",
+    "category": "Astronomy",
+    "duration_s": 347133600,
+    "notes": "~11 years"
+  },
+  {
+    "name": "Milky Way galactic rotation",
+    "category": "Astronomy",
+    "duration_s": 7080000000000000.0,
+    "notes": "~225 million years"
+  },
+  {
+    "name": "Voyager 1 to reach nearest star (theoretical)",
+    "category": "Astronomy",
+    "duration_s": 1420000000000.0,
+    "notes": "~45,000 years at current speed"
+  },
+  {
+    "name": "Mayfly adult lifespan",
+    "category": "Biology",
+    "duration_s": 86400,
+    "notes": "24 hours (some species as little as 5 min)"
+  },
+  {
+    "name": "Worker bee lifespan (summer)",
+    "category": "Biology",
+    "duration_s": 3456000,
+    "notes": "~40 days"
+  },
+  {
+    "name": "House fly lifespan",
+    "category": "Biology",
+    "duration_s": 2592000,
+    "notes": "~30 days"
+  },
+  {
+    "name": "Giant tortoise lifespan",
+    "category": "Biology",
+    "duration_s": 4732560000,
+    "notes": "~150 years"
+  },
+  {
+    "name": "Greenland shark lifespan",
+    "category": "Biology",
+    "duration_s": 12623760000,
+    "notes": "~400 years"
+  },
+  {
+    "name": "Oldest known tree (Methuselah pine)",
+    "category": "Biology",
+    "duration_s": 151699200000,
+    "notes": "~4,800 years"
+  },
+  {
+    "name": "Giant sequoia lifespan (max)",
+    "category": "Biology",
+    "duration_s": 100310400000,
+    "notes": "~3,200 years"
+  },
+  {
+    "name": "Monarch butterfly migration",
+    "category": "Biology",
+    "duration_s": 7776000,
+    "notes": "~90 days one-way"
+  },
+  {
+    "name": "Salmon spawning journey",
+    "category": "Biology",
+    "duration_s": 5184000,
+    "notes": "~60 days upriver"
+  },
+  {
+    "name": "Cicada lifecycle (17-year)",
+    "category": "Biology",
+    "duration_s": 536112000,
+    "notes": "17 years underground"
+  },
+  {
+    "name": "Dinosaur extinction to humans",
+    "category": "Biology",
+    "duration_s": 2020000000000000.0,
+    "notes": "~64 million years"
+  },
+  {
+    "name": "Evolution of Homo sapiens",
+    "category": "Biology",
+    "duration_s": 9460000000000.0,
+    "notes": "~300,000 years"
+  },
+  {
+    "name": "First life on Earth to present",
+    "category": "Biology",
+    "duration_s": 1.18e+17,
+    "notes": "~3.7 billion years"
+  },
+  {
+    "name": "Cambrian explosion duration",
+    "category": "Biology",
+    "duration_s": 158000000000000.0,
+    "notes": "~5\u201325 million years"
+  },
+  {
+    "name": "Blue whale lifespan",
+    "category": "Biology",
+    "duration_s": 2681424000,
+    "notes": "~85 years"
+  },
+  {
+    "name": "Elephant gestation",
+    "category": "Biology",
+    "duration_s": 57369600,
+    "notes": "~664 days (22 months)"
+  },
+  {
+    "name": "Grizzly bear hibernation",
+    "category": "Biology",
+    "duration_s": 18144000,
+    "notes": "~5\u20137 months"
+  },
+  {
+    "name": "Photosynthesis (light reactions)",
+    "category": "Biology",
+    "duration_s": 1e-06,
+    "notes": "~1 microsecond for initial charge separation"
+  },
+  {
+    "name": "Hummingbird wingbeat (one flap)",
+    "category": "Biology",
+    "duration_s": 0.013,
+    "notes": "~80 beats per second"
+  },
+  {
+    "name": "Cheetah sprint (100m at top speed)",
+    "category": "Biology",
+    "duration_s": 3.8,
+    "notes": "At ~112 km/h"
+  },
+  {
+    "name": "100m world record (men)",
+    "category": "Sports",
+    "duration_s": 9.58,
+    "notes": "Usain Bolt, 2009"
+  },
+  {
+    "name": "Mile world record (men)",
+    "category": "Sports",
+    "duration_s": 223.13,
+    "notes": "Hicham El Guerrouj, 3:43.13"
+  },
+  {
+    "name": "Marathon world record (men)",
+    "category": "Sports",
+    "duration_s": 7084,
+    "notes": "Kelvin Kiptum, 1:57:58 (2023)"
+  },
+  {
+    "name": "Ironman Triathlon world record",
+    "category": "Sports",
+    "duration_s": 29101,
+    "notes": "8 hours 3 min 41 sec"
+  },
+  {
+    "name": "Tour de France (average)",
+    "category": "Sports",
+    "duration_s": 1900800,
+    "notes": "~22 days"
+  },
+  {
+    "name": "Average NBA game",
+    "category": "Sports",
+    "duration_s": 7920,
+    "notes": "~2 hours 12 minutes"
+  },
+  {
+    "name": "Longest tennis match (Isner\u2013Mahut 2010)",
+    "category": "Sports",
+    "duration_s": 40800,
+    "notes": "11 hours 5 minutes"
+  },
+  {
+    "name": "NASA space walk (EVA, average)",
+    "category": "Sports",
+    "duration_s": 23400,
+    "notes": "~6.5 hours"
+  },
+  {
+    "name": "Longest spacewalk (March 2001)",
+    "category": "Sports",
+    "duration_s": 28992,
+    "notes": "8 hours 56 minutes"
+  },
+  {
+    "name": "Speed of sound crossing USA",
+    "category": "Physics",
+    "duration_s": 12000,
+    "notes": "~3.3 hours at Mach 1"
+  },
+  {
+    "name": "Concorde NYC to London flight",
+    "category": "Historical",
+    "duration_s": 12600,
+    "notes": "~3.5 hours"
+  },
+  {
+    "name": "Standard commercial flight NYC\u2013London",
+    "category": "Historical",
+    "duration_s": 25200,
+    "notes": "~7 hours"
+  },
+  {
+    "name": "Drive across USA (coast to coast)",
+    "category": "Historical",
+    "duration_s": 151200,
+    "notes": "~42 hours driving time"
+  },
+  {
+    "name": "Circumnavigate Earth by plane",
+    "category": "Historical",
+    "duration_s": 145800,
+    "notes": "~40.5 hours nonstop (fastest record)"
+  },
+  {
+    "name": "First solo nonstop transatlantic flight (Lindbergh)",
+    "category": "Historical",
+    "duration_s": 122400,
+    "notes": "33.5 hours (1927)"
+  },
+  {
+    "name": "Apollo 13 crisis duration",
+    "category": "Historical",
+    "duration_s": 345600,
+    "notes": "4 days from explosion to splashdown"
+  },
+  {
+    "name": "ISS orbital period",
+    "category": "Astronomy",
+    "duration_s": 5520,
+    "notes": "92 minutes"
+  },
+  {
+    "name": "Average commercial flight (domestic US)",
+    "category": "Historical",
+    "duration_s": 9000,
+    "notes": "~2.5 hours"
+  },
+  {
+    "name": "Human record holding breath (static apnea)",
+    "category": "Biology",
+    "duration_s": 1362,
+    "notes": "Budimir \u0160obat, 22 min 22 sec (2021)"
+  },
+  {
+    "name": "Fastest human free fall (Felix Baumgartner)",
+    "category": "Sports",
+    "duration_s": 249,
+    "notes": "4 min 19 sec from 39km altitude"
+  },
+  {
+    "name": "Planck time",
+    "category": "Physics",
+    "duration_s": 5.39e-44,
+    "notes": "Smallest meaningful unit of time"
+  },
+  {
+    "name": "Attosecond (shortest laser pulse)",
+    "category": "Physics",
+    "duration_s": 1e-18,
+    "notes": "Used in ultrafast physics"
+  },
+  {
+    "name": "Femtosecond",
+    "category": "Physics",
+    "duration_s": 1e-15,
+    "notes": "Time for light to travel ~300nm"
+  },
+  {
+    "name": "Picosecond",
+    "category": "Physics",
+    "duration_s": 1e-12,
+    "notes": "Time for light to travel ~0.3mm"
+  },
+  {
+    "name": "Nanosecond",
+    "category": "Physics",
+    "duration_s": 1e-09,
+    "notes": "Time for light to travel ~30cm"
+  },
+  {
+    "name": "Microsecond",
+    "category": "Physics",
+    "duration_s": 1e-06,
+    "notes": "Used in electronics and physics"
+  },
+  {
+    "name": "Millisecond",
+    "category": "Physics",
+    "duration_s": 0.001,
+    "notes": "Shortest perceptible sound gap"
+  },
+  {
+    "name": "One second",
+    "category": "Physics",
+    "duration_s": 1,
+    "notes": "SI base unit of time"
+  },
+  {
+    "name": "One minute",
+    "category": "Physics",
+    "duration_s": 60,
+    "notes": "60 seconds"
+  },
+  {
+    "name": "One hour",
+    "category": "Physics",
+    "duration_s": 3600,
+    "notes": "3,600 seconds"
+  },
+  {
+    "name": "One day (solar)",
+    "category": "Physics",
+    "duration_s": 86400,
+    "notes": "24 hours"
+  },
+  {
+    "name": "One week",
+    "category": "Physics",
+    "duration_s": 604800,
+    "notes": "7 days"
+  },
+  {
+    "name": "One month (average)",
+    "category": "Physics",
+    "duration_s": 2629800,
+    "notes": "30.4375 days average"
+  },
+  {
+    "name": "One year (Julian)",
+    "category": "Physics",
+    "duration_s": 31557600,
+    "notes": "365.25 days"
+  },
+  {
+    "name": "One decade",
+    "category": "Physics",
+    "duration_s": 315576000,
+    "notes": "10 years"
+  },
+  {
+    "name": "One century",
+    "category": "Physics",
+    "duration_s": 3155760000,
+    "notes": "100 years"
+  },
+  {
+    "name": "One millennium",
+    "category": "Physics",
+    "duration_s": 31557600000,
+    "notes": "1,000 years"
+  },
+  {
+    "name": "Length of a film (average Hollywood)",
+    "category": "Culture",
+    "duration_s": 6300,
+    "notes": "~105 minutes"
+  },
+  {
+    "name": "Average song length (pop, 2020s)",
+    "category": "Culture",
+    "duration_s": 190,
+    "notes": "~3 minutes 10 seconds"
+  },
+  {
+    "name": "Beethoven's 9th Symphony",
+    "category": "Culture",
+    "duration_s": 4320,
+    "notes": "~72 minutes"
+  },
+  {
+    "name": "Average TED Talk",
+    "category": "Culture",
+    "duration_s": 1080,
+    "notes": "~18 minutes"
+  },
+  {
+    "name": "Average news broadcast (30 min)",
+    "category": "Culture",
+    "duration_s": 1800,
+    "notes": "Standard evening news"
+  },
+  {
+    "name": "US Presidential term",
+    "category": "Culture",
+    "duration_s": 126230400,
+    "notes": "4 years"
+  },
+  {
+    "name": "Oscar ceremony (average)",
+    "category": "Culture",
+    "duration_s": 13500,
+    "notes": "~3 hours 45 minutes"
+  },
+  {
+    "name": "Super Bowl game (average)",
+    "category": "Culture",
+    "duration_s": 13500,
+    "notes": "~3.75 hours including halftime"
+  },
+  {
+    "name": "Average church service (Protestant)",
+    "category": "Culture",
+    "duration_s": 3600,
+    "notes": "~1 hour"
+  },
+  {
+    "name": "Catholic Mass (standard)",
+    "category": "Culture",
+    "duration_s": 3900,
+    "notes": "~65 minutes"
+  },
+  {
+    "name": "Average surgery (appendectomy)",
+    "category": "Culture",
+    "duration_s": 3600,
+    "notes": "~1 hour"
+  },
+  {
+    "name": "Open heart surgery (bypass)",
+    "category": "Culture",
+    "duration_s": 21600,
+    "notes": "~6 hours"
+  },
+  {
+    "name": "Average job interview",
+    "category": "Culture",
+    "duration_s": 2400,
+    "notes": "~40 minutes"
+  },
+  {
+    "name": "Average commute to work (US)",
+    "category": "Culture",
+    "duration_s": 1620,
+    "notes": "~27 minutes one way"
+  },
+  {
+    "name": "Average restaurant meal (sit-down)",
+    "category": "Culture",
+    "duration_s": 4200,
+    "notes": "~70 minutes"
+  },
+  {
+    "name": "Average school class period",
+    "category": "Culture",
+    "duration_s": 2700,
+    "notes": "~45 minutes"
+  },
+  {
+    "name": "US school year",
+    "category": "Culture",
+    "duration_s": 15724800,
+    "notes": "~180 school days"
+  },
+  {
+    "name": "Four-year university degree",
+    "category": "Culture",
+    "duration_s": 126230400,
+    "notes": "4 years"
+  },
+  {
+    "name": "Medical school training (US)",
+    "category": "Culture",
+    "duration_s": 220752000,
+    "notes": "~7 years (4 med + 3 residency)"
+  },
+  {
+    "name": "Average phone call (US)",
+    "category": "Culture",
+    "duration_s": 90,
+    "notes": "~1.5 minutes average"
+  },
+  {
+    "name": "Time to boil water (1L, sea level)",
+    "category": "Culture",
+    "duration_s": 240,
+    "notes": "~4 minutes at 1000W"
+  },
+  {
+    "name": "Average time to fall in love",
+    "category": "Culture",
+    "duration_s": 0.2,
+    "notes": "~200ms neural 'love at first sight' response"
+  },
+  {
+    "name": "Shortest war in history (Anglo-Zanzibar)",
+    "category": "Historical",
+    "duration_s": 2700,
+    "notes": "38\u201345 minutes (Aug 27, 1896)"
+  },
+  {
+    "name": "Nuclear bomb assembly time (modern)",
+    "category": "Historical",
+    "duration_s": 7200,
+    "notes": "Roughly 2 hours for a trained crew"
+  },
+  {
+    "name": "Time light takes to cross human hair width",
+    "category": "Physics",
+    "duration_s": 2.5e-13,
+    "notes": "~75 microns / c"
+  },
+  {
+    "name": "Minimum human reaction to pain",
+    "category": "Biology",
+    "duration_s": 0.7,
+    "notes": "~700ms for complex pain response"
+  },
+  {
+    "name": "Yawn duration",
+    "category": "Biology",
+    "duration_s": 6,
+    "notes": "Average yawn ~6 seconds"
+  },
+  {
+    "name": "Hiccup (one)",
+    "category": "Biology",
+    "duration_s": 0.25,
+    "notes": "Single hiccup involuntary contraction"
+  },
+  {
+    "name": "World's longest recorded hiccup bout",
+    "category": "Biology",
+    "duration_s": 2081635200,
+    "notes": "Charles Osborne hiccupped for 68 years"
+  },
+  {
+    "name": "Average human dream duration",
+    "category": "Biology",
+    "duration_s": 1200,
+    "notes": "5\u201320 minutes per dream"
+  },
+  {
+    "name": "Human childbirth (active labor, first child)",
+    "category": "Biology",
+    "duration_s": 43200,
+    "notes": "~12 hours average"
+  },
+  {
+    "name": "Usain Bolt's 100m world record",
+    "category": "Sports",
+    "duration_s": 9.58,
+    "notes": "9.58 seconds (Berlin 2009)"
+  },
+  {
+    "name": "Speed of fastest human nerve signal",
+    "category": "Biology",
+    "duration_s": 0.001,
+    "notes": "~1ms for A\u03b1 motor fiber at 70\u2013120 m/s"
+  },
+  {
+    "name": "Average lifespan of a star (Sun-like)",
+    "category": "Astronomy",
+    "duration_s": 3.15e+17,
+    "notes": "~10 billion years"
+  }
+]
